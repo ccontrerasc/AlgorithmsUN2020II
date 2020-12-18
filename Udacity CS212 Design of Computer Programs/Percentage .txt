@@ -1,6 +1,3 @@
 100% Completed
 
-I learned with deepness about the interaction of graphs with the complexity of an algorithm, and how use data structures 
-that represent those graphs are the key on optimizing the time that it takes for a program to go through iterations in 
-order to solve a designated problem. Plus the relevance of Big notation when it's time to calculate and implement an 
-efficient algorithm.
+From the way of ordening a poker game to how read JSON files, in this course the amount of tools that was given to me to make algorithms is really extensive. The detailed manner in which how to receive, process and use external files as a source of relevant information for use of a large variety of algorithms is really well explained and implemented along the entire course, not leaving behind current techniques like receiving organized information, funcions as a little introduction of data management used by the mayority of web services. Also relevant comes the functions teached for controlling the efficiency and the time control of the program. The constant puzzle solving make you put in practice everything learned until this point.
