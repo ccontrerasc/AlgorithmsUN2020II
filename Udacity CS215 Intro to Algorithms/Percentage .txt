@@ -1,0 +1,6 @@
+100% Completed
+
+I learned with deepness about the interaction of graphs with the complexity of an algorithm, and how use data structures 
+that represent those graphs are the key on optimizing the time that it takes for a program to go through iterations in 
+order to solve a designated problem. Plus the relevance of Big notation when it's time to calculate and implement an 
+efficient algorithm.
