@@ -1,3 +1,8 @@
 100% Completed
 
-From the way of ordening a poker game to how read JSON files, in this course the amount of tools that was given to me to make algorithms is really extensive. The detailed manner in which how to receive, process and use external files as a source of relevant information for use of a large variety of algorithms is really well explained and implemented along the entire course, not leaving behind current techniques like receiving organized information, funcions as a little introduction of data management used by the mayority of web services. Also relevant comes the functions teached for controlling the efficiency and the time control of the program. The constant puzzle solving make you put in practice everything learned until this point.
+From the way of ordening a poker game to how read JSON files, in this course the amount of tools that was given to me to make algorithms is really extensive.
+The detailed manner in which how to receive, process and use external files as a source of relevant information for use of a large variety of algorithms is 
+really well explained and implemented along the entire course, not leaving behind current techniques like receiving organized information,
+funcions as a little introduction of data management used by the mayority of web services.
+Also relevant comes the functions teached for controlling the efficiency and the time control of the program.
+The constant puzzle solving make you put in practice everything learned until this point.
